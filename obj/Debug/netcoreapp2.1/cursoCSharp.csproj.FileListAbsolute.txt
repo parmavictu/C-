@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\cursoCSharp.deps.json
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\cursoCSharp.runtimeconfig.json
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\cursoCSharp.runtimeconfig.dev.json
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\cursoCSharp.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\cursoCSharp.pdb
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\cursoCSharp.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\cursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\cursoCSharp.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\cursoCSharp.AssemblyInfo.cs
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\cursoCSharp.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\cursoCSharp.pdb
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Debug\netcoreapp2.1\Encapsulamento.pdb
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CopyComplete

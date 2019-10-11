@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\CursoCSharp.deps.json
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\CursoCSharp.runtimeconfig.json
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\CursoCSharp.runtimeconfig.dev.json
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\CursoCSharp.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\CursoCSharp.pdb
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Release\netcoreapp2.1\win-x86\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Release\netcoreapp2.1\win-x86\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Release\netcoreapp2.1\win-x86\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Release\netcoreapp2.1\win-x86\CursoCSharp.AssemblyInfo.cs
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Release\netcoreapp2.1\win-x86\CursoCSharp.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\obj\Release\netcoreapp2.1\win-x86\CursoCSharp.pdb
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\victo\source\repos\cursoCSharp\cursoCSharp\bin\Release\netcoreapp2.1\win-x86\CursoCSharp.exe

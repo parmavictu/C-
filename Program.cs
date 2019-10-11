@@ -112,6 +112,8 @@ namespace CursoCSharp {
                 {"Exercicios7", ex7.Executar},
                 {"Exercicios8", ex8.Executar},
                 {"Exercicios9", ex9.Executar},
+                {"Exercicios10", ex10.Executar},
+                {"Exercicios11", ex11.Executar},
             });
 
             central.SelecionarEExecutar();
